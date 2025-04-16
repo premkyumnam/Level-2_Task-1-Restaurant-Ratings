@@ -87,7 +87,7 @@ After performing a thorough analysis, here are the findings:
   Name: Aggregate rating, dtype: int64
 
 
-From the above distribution of aggregate ratings , 
+From the above distribution of aggregate ratings , <br>
 2. The most common rating range is 0.0 with 2148 restaurants. <br>
 3. Finally, I got the required average number of votes received by restaurants is 156.77
 
