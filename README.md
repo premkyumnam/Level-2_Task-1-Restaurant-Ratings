@@ -88,11 +88,8 @@ After performing a thorough analysis, here are the findings:
 
 
 From the above distribution of aggregate ratings , 
-2. The most common rating range is 0.0 with 2148 restaurants. 
-
-<h2>- To calculate the average number of votes received by restaurants, I tried to find out the total number of  votes i.e., 1495919 votes.</h2>
-
-Finally, I got the required average number of votes received by restaurants is 156.77
+2. The most common rating range is 0.0 with 2148 restaurants. <br>
+3. Finally, I got the required average number of votes received by restaurants is 156.77
 
 
 Thus, I completed the Task-1 of Level-2 in the Data Analysis Internship Program.
